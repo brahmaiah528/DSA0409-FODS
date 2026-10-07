@@ -1,0 +1,6 @@
+CO1: Evaluate and apply programming basics, C program structure, preprocessor directives, constants, variables, data types, operators, expressions, operator precedence and associativity to formulate computational solutions.
+CO2: Design decision-making, branching, looping and control-statement logic to solve conditional and repetitive computational problems.
+CO3: Design and process one-dimensional, two-dimensional and multidimensional arrays; apply searching, merging, string operations and string handling for structured data processing.
+CO4: Evaluate and apply structures, structure pointers, unions and storage classes such as auto, extern, static and register for organized data representation and program design.
+CO5: Design modular solutions using functions, parameter passing, recursion, pointers, pointers with functions and arrays, file handling and dynamic memory allocation.
+
